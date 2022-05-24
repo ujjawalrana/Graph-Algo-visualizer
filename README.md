@@ -22,3 +22,11 @@ Currently it has 7 different algorithms
 7. Prim
 
 Made in a way that is relatively simple to add more algorithms
+
+![alt text](https://github.com/ujjawalrana/Graph-Algo-visualizer/blob/main/Screenshot%20from%202022-05-24%2021-34-40.png)
+![alt text](https://github.com/ujjawalrana/Graph-Algo-visualizer/blob/main/Screenshot%20from%202022-05-24%2021-45-15.png)
+![alt text](https://github.com/ujjawalrana/Graph-Algo-visualizer/blob/main/Screenshot%20from%202022-05-24%2021-45-41.png)
+![alt text](https://github.com/ujjawalrana/Graph-Algo-visualizer/blob/main/Screenshot%20from%202022-05-24%2021-46-32.png)
+![alt text](https://github.com/ujjawalrana/Graph-Algo-visualizer/blob/main/Screenshot%20from%202022-05-24%2021-48-57.png)
+![alt text](https://github.com/ujjawalrana/Graph-Algo-visualizer/blob/main/Screenshot%20from%202022-05-24%2021-49-29.png)
+![alt text](https://github.com/ujjawalrana/Graph-Algo-visualizer/blob/main/image.png)
